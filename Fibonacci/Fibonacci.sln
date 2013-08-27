@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{9F55EBF2-F480-4DA4-8CCA-12EBFEC6F48F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci.Tests", "Fibonacci.Tests\Fibonacci.Tests.csproj", "{0D531E05-C065-43DF-8861-3F4D89E9EB22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9F55EBF2-F480-4DA4-8CCA-12EBFEC6F48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F55EBF2-F480-4DA4-8CCA-12EBFEC6F48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F55EBF2-F480-4DA4-8CCA-12EBFEC6F48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D531E05-C065-43DF-8861-3F4D89E9EB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D531E05-C065-43DF-8861-3F4D89E9EB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D531E05-C065-43DF-8861-3F4D89E9EB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D531E05-C065-43DF-8861-3F4D89E9EB22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
